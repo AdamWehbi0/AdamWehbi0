@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Java Springboot Projects**
 
-- 🤝 I’m looking for help with **Back-End**
+- 🤝 I’m looking for help with **Becoming A More Developed Engineer**
 
 - 💬 Ask me about **My Internship At Match Day Health**
 
