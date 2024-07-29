@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Back-End**
 
-- 💬 Ask me about **My NFL Quarterback Stat's Finder Project**
+- 💬 Ask me about **My Internship At Match Day Health**
 
 - 📫 How to reach me **Adamwehbi0@gmail.com**
 
